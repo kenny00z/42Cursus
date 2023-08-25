@@ -1,0 +1,14 @@
+{
+	"C_Cpp.errorSquiggles": "enabled",
+	"files.associations": {
+		"libft.h": "c",
+		"sstream": "c",
+		"random": "c",
+		"array": "c",
+		"deque": "c",
+		"string": "c",
+		"unordered_map": "c",
+		"vector": "c",
+		"initializer_list": "c"
+	}
+}
